@@ -24,22 +24,22 @@ Power requirements for Frac modules are typically ±15VDC. Current draw depends 
 
 ## Frac brands
 
-    Ad Infinitum
-    Analog Metropolis
-    Barton
-    Blacet Research
-    BugBrand (only banana jacks)
-    CGS usually availiable through Metalbox if you cannot DIY
-    Flight of Harmony
-    j3rk
-    Metalbox
-    MFOS – not format specific and can be powered by +/-15V[12]
-    Oakley Sound Systems – some support for Frac and some 5U PCBs can fit behind a Frac panel.[13]
-    PAIA 
-    Stroh Modular
-    Synthasonic
-    Synthesis Technology MOTM – never supported Frac but some 5U PCBs will fit behind a Frac panel.[13]
-    Wiard
+    * Ad Infinitum
+    * Analog Metropolis
+    * Barton
+    * Blacet Research
+    * BugBrand (only banana jacks)
+    * CGS usually availiable through Metalbox if you cannot DIY
+    * Flight of Harmony
+    * j3rk
+    * Metalbox
+    * MFOS – not format specific and can be powered by +/-15V[12]
+    * Oakley Sound Systems – some support for Frac and some 5U PCBs can fit behind a Frac panel.
+    * PAIA 
+    * Stroh Modular
+    * Synthasonic
+    * Synthesis Technology MOTM 
+    * Wiard
    
 
 Currently Metalbox is the only one thats open to business availiable to buy things from. 
@@ -47,35 +47,4 @@ But you might find modules from the rest of the brands too...look on Ebay/Reverb
 
 synthcube is a great resource for PCB/Panel/Kits etc in Frac Format
 
-
-
-## Some modules that work on +/- 15V so they are suitable for Frac DIY
-
-### 4ms:
-
-Shuffling Clock Multiplier: works on +/-12-15v
-
-Rotating Clock Divider: works on +/-12-15v
-
-Noise Swash: works on +/-9-15v
-
-Atoner: works on +/-12-15v 
-
-
-### Flight of Harmony:
-
-Choices: operates on +/-9-15V
-
-Plague Bearer: operates on +/-9-15V
-
-V'Amp: operates on +/-9-15V
-
-Sound of Shadows: operates on +/-12-15v
-
-
-### Blacet to Doepfer Power Connector
-
-Some Blacet Modules will work on +/-12V and some Doepfer Modules will work on +/-15V... 
-
-![BlacetDoepferConnector](https://github.com/FracModular/Blacet/raw/master/BlacetDoepPsConn.gif)
 

@@ -2,11 +2,12 @@ remote_theme: luxedo/jekyll-theme-potato-hacker
 theme_base: "dark"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 
+logo                     : "/assets/img/roboto.jpg" # path of logo image to display in the masthead,
 # Extra settings
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/frac.jpg"
-avatar_description: "frac rack 4eva 🎶"
+avatar_description: "frac rack 🎶"
 highlighter_theme: monokai  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]

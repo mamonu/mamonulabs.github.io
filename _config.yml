@@ -1,4 +1,4 @@
-remote_theme: coogie/oscailte # luxedo/jekyll-theme-potato-hacker
+remote_theme: luxedo/jekyll-theme-potato-hacker
 theme_base: "dark"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 
@@ -11,11 +11,4 @@ avatar_description: "frac rack 🎶"
 highlighter_theme: monokai  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
-strings:
-    skip_to_main_content: "Skip to main content"
-    x_minute_read: "$x$ minute read"
-    hero_title: "Welcome to fracmodular. A Site for info on the frac modular format"
-    recent_posts: "Recent posts"
-    view_all: "View all"
-    read_full: "Read full"
-   
+

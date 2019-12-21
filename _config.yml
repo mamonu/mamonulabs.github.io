@@ -2,7 +2,7 @@ remote_theme: hydecorp/hydejack # luxedo/jekyll-theme-potato-hacker
 theme_base: "dark"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 
-logo                     : "/assets/img/roboto.jpg" # path of logo image to display in the masthead,
+logo                     : "/assets/img/frac.jpg" # path of logo image to display in the masthead,
 # Extra settings
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)

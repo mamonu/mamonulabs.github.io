@@ -1,3 +1,12 @@
+---
+layout: page
+title: PSIM-1
+description: PSIM-1 module
+dropdown: SpecificModulesInfo
+priority: 1
+---
+
+
 
 
 ![PSIM-1](https://raw.githubusercontent.com/FracModular/fracmodular.github.io/master/assets/img/psim.jpg)

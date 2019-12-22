@@ -5,21 +5,17 @@ description: what is out there in frac-land?
 ---
 
 
-</b>
 
-## Frac brands
+So you want to get some Frac but you dont know what is out there:
 
-
-So you want to get some Frac but you dont know what there is out there:
-
-#### commercial
+#### Commercial
 
 
     * Ad Infinitum
-    * Blacet Research
+    * Blacet Research (RIP John Blacet)
     * Batchas (scrotumlabs)
-    * BugBrand (only banana jacks now.Some older minijackformats availiable)
-    * Flight of Harmony
+    * BugBrand (only banana jacks now.Some older minijackformats availiable used )
+    * Flight of Harmony (used)
     * Metalbox
     * Oakley Sound Systems – some support for Frac and some 5U PCBs can fit behind a Frac panel. (discontinued)
     * PAIA 

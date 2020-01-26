@@ -19,3 +19,8 @@ by a 9-pin serial DIN connector. There are four general purpose inputs,
 four general purpose outputs, an AUX in/out, a reset button, a start in/out
 and button, a stop in/out and button, a stop LED, a run LED, and four
 monitor LEDs.
+
+During the end of 2019 the place where a lot of programs for PSIM-1 were stored went down
+(the synthmodules yahoo group)
+
+Thankfully an archive from that group has been downloaded and can be found [here](https://github.com/FracModular/PSIM-1-related)

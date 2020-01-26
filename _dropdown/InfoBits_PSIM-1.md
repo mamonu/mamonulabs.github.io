@@ -2,7 +2,7 @@
 layout: page
 title: PSIM-1
 description: PSIM-1 module
-dropdown: SpecificModulesInfo
+dropdown: InfoBits
 priority: 1
 ---
 

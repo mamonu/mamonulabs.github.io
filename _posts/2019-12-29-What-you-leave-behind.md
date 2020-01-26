@@ -15,7 +15,7 @@ synth community. John Blacet and Mike McGrath
 
 ## John Blacet 
 
-<img src="https://github.com/FracModular/Blacet/blob/master/BLACET_o.jpg" width="400" height="340">
+<img src="https://github.com/FracModular/Blacet/raw/master/BLACET_o.jpg" width="400" height="340">
 
 John Blacet was one of the people responsible for the proliferation of modular synthesizers at a time when they werent so
 ubiquitous. 
@@ -45,6 +45,22 @@ I liked what MatrixSynth (the synth news aggregator) wrote so Im going to quote 
 
 In a positive development synthcube has acquired the rights for Blacet work. This will mean that John's work will be availiable 
 once again ... and perhaps there are a few other suprises along the way
+
+
+## Mike McGrath
+
+
+
+Mike was responsible for creating one of the most influential forums for electronic modular instruments. 
+If not for Mike ,there wouldnt be this explosion of boutique modular   
+
+
+
+
+this thread I think is a testament on how many lives he has touched. 
+For a bit after his passing everyone was worried on what is going to happen to their most favourite place on the internet.
+Thankfully the site now is in good hands. With a lot of work throughout Christmas from his brother
+and a Patreon setup for donations its fair to say the existance of Muffwiggler forums is assured.
 
 
 

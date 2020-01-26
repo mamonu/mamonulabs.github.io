@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Euro_on_Frac
+title: Eurorack on +/- 15V
 description: Euro modules on Frac systems
 dropdown: DIY
 priority: 1

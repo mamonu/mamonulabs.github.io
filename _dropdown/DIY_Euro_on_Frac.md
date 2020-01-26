@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PSIM-1
+title: Euro_on_Frac
 description: Euro modules on Frac systems
-dropdown: InfoBits
+dropdown: DIY
 priority: 1
 ---
 

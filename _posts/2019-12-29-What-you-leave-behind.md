@@ -43,7 +43,8 @@ I liked what MatrixSynth (the synth news aggregator) wrote so Im going to quote 
       We have him and the handful of boutique manufacturers to thank for what we have now. 
      
 
-
+In a positive development synthcube has acquired the rights for Blacet work. This will mean that John's work will be availiable 
+once again ... and perhaps there are a few other suprises along the way
 
 
 

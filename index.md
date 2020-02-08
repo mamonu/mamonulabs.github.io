@@ -1,7 +1,7 @@
 
 
 
-## fracmodular.github.io ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png)
+![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png)
 
 
 This repo is dedicated to the preservation of information for the Frac Modular format.

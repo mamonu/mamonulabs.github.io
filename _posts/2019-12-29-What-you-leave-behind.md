@@ -26,8 +26,9 @@ I liked the no-nonsense workmanlike modules with clever design and normalisation
 I also liked the black uniformity of his modules but also the uniformity of knob placement
 and other things that after a while start to matter. 
 
-I am an equal opportunity wiggler having euro/frac/100m modules in my studio but my the euro is always for the 
-add-ons/exotic/digital modules.This is why I have never felt compelled to have more than 2 * 3U rows of it. In my case Blacet and 100m were always the main meat and potatoes.
+I am an equal opportunity wiggler having euro/frac/100m modules in my studio but my uro is always for the 
+add-ons/exotic/digital modules.
+This is why I have never felt compelled to have more than 2 * 3U rows of it. In my case Blacet and 100m were always the main meat and potatoes.
 
 
 I liked what MatrixSynth (the synth news aggregator) wrote so Im going to quote it here.
@@ -43,8 +44,8 @@ I liked what MatrixSynth (the synth news aggregator) wrote so Im going to quote 
       We have him and the handful of boutique manufacturers to thank for what we have now. 
      
 
-In a positive development synthcube has acquired the rights for Blacet work. This will mean that John's work will be availiable 
-once again ... and perhaps there are a few other suprises along the way
+In a positive development [synthcube](https://synthcube.com/cart/) has acquired the rights for Blacet work. 
+This will mean that John's work will be availiable once again ... and perhaps there are a few other suprises along the way
 
 
 ## Mike McGrath
@@ -55,20 +56,17 @@ Mike was responsible for creating one of the most influential forums for electro
 
 [Muffwiggler](https://www.muffwiggler.com/forum/)
 
-If not for Mike ,there wouldnt be such an explosion of boutique modular as we have now.
+If not for Mike ,there wouldnt be such an explosion of boutique modular instruments like the one we are lucky to have now.
 
 <img src="https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/2474_mikemcgrathmuffwigglerwide.jpg">
 
 
 [This](https://www.muffwiggler.com/forum/viewtopic.php?f=10&t=216474) thread I think is a testament on how many lives he has touched. 
-
 His passing was a great shock and many people felt the loss of a friend.
 
-As well as the feelings for the person who created the forum that most synthfreaks call home...for a bit after 
-his passing everyone was worried on what is going to the forum. I mean during Christmas the site went down! 
-Thankfully the site now is in good hands. With a lot of work throughout Christmas from his brother who now deals
+The forum now is in good hands. With a lot of work throughout Christmas from his brother who now deals
 with the board admin stuff and a [Patreon](https://www.patreon.com/muffwiggler_forums/) setup for donations for 
-hosting costs etc its fair to say the existance of Muffwiggler forums is assured.
+hosting costs etc its fair to say the existance of Muffwiggler forums is assured so Mike's legacy will live on.
 
 
 

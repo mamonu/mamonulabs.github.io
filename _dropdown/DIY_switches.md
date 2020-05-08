@@ -11,15 +11,15 @@ We classify switches by the number of "poles" and the number of "throws".
 The number of "throws" is the number of lever or button positions in which the switch completes a circuit. 
 
 
-![switches](https://github.com/FracModular/fracmodular.github.io/blob/master/assets/img/switches.jpg)
+![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/switches.jpg)
 
 
-The simplest switch is a "single pole single throw", which has two contacts. 
+The simplest switch is a **"single pole single throw (SPST)"**, which has two contacts. 
 When the switch is on, it completes the circuit between the two contacts; when the switch is off, the circuit is open.
 
 
 A "double pole" switch is basically two separate switches connected to the same lever or button. 
-The "double pole double throw" is pretty widely used. It has a total of six contacts -- a 1, 2, and 3 for each half of the switch. 
+The **"double pole double throw" (DPDT)** is pretty widely used. It has a total of six contacts -- a 1, 2, and 3 for each half of the switch. 
 There is no connection between the two halves.
 
 Some catalogs describe the positions of a switch using a different notation, 

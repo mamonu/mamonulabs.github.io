@@ -4,10 +4,9 @@
 ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/2001Frac.jpg)
 
 
-This repo is dedicated to the preservation of information for the ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png) Frac Modular format
+This repo is dedicated to the preservation of information 
 
-
-This space will hold info / manuals / tidbits for various (some of them discontinued) modules from
+for the Frac Modular format  ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png) such as info / manuals / tidbits for various (some of them discontinued) modules from
 companies like Blacet (RIP John), Paia etc together with some interesting DIY choices that are available in this format
 
 

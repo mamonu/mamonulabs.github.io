@@ -8,7 +8,7 @@ This repo is dedicated to the preservation of information for the
 
 <div align="center">
 
-![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png) Frac Modular format ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png) </center>
+![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png) Frac Modular format ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png)
 
 </div>
 

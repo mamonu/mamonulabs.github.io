@@ -4,12 +4,7 @@
 ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/2001Frac.jpg)
 
 
-This repo is dedicated to the preservation of information for the
-
-
-
-![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png)Frac Modular format ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png)
-
+This repo is dedicated to the preservation of information for the ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png) Frac Modular format
 
 
 This space will hold info / manuals / tidbits for various (some of them discontinued) modules from

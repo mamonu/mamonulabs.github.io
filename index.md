@@ -6,11 +6,11 @@
 
 This repo is dedicated to the preservation of information for the
 
-<div align="center">
 
-![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png) Frac Modular format ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png)
 
-</div>
+![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png)Frac Modular format ![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/blacet.png)
+
+
 
 This space will hold info / manuals / tidbits for various (some of them discontinued) modules from
 companies like Blacet (RIP John), Paia etc together with some interesting DIY choices that are available in this format

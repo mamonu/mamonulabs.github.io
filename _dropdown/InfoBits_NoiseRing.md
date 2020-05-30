@@ -62,6 +62,48 @@ with attenuator.
 
 
 
+### "CHANCE" Control
+
+
+
+![NC2](https://raw.githubusercontent.com/FracModular/fracmodular.github.io/master/assets/img/noiexp2.jpg)
+
+Chance controls the number of zeros and one extracted from the noise source.
+
+- At 7 o'clock position, all zeros are output and the "Chance indicator" LED is always off.
+- At 5 o'clock position, all ones are output and the "Chance indicator" LED is always on.
+- At 12 o'clock position, equal numbers of zeros and ones are output and the "Chance indicator" LED flickers.
+
+
+With the "CHANGE" control is set to 100% (all new data), sweeping the "CHANCE" control sounds like [this](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/snd/PROB1SWE.mp3) at the **2^n** output 
+
+With the "CHANGE" control is set to 100% (all new data), sweeping the "CHANCE" control sounds like [this](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/snd/PROB1SW2.mp3) at the **n+1** output 
+
+
+
+
+### "CHANGE" Control
+
+
+Change controls the number of new zeros and one which are let into the ring.
+
+- At 5 o'clock position, all old data is used and the "Change Indicator" LED is always off.
+- At 7 o'clock position, all new data is used and the "Change Indicator" LED is always on.
+- At 12 o'clock position, equal numbers of old and new data are used and the "Change Indicator" LED flickers. 
+
+
+![NC3](https://raw.githubusercontent.com/FracModular/fracmodular.github.io/master/assets/img/noiexp3.jpg)
+
+
+### NOISERING OUTPUTS and LEDs
+
+
+
+![NC4](https://raw.githubusercontent.com/FracModular/fracmodular.github.io/master/assets/img/noiexp4.jpg)
+
+- The "n" ring lights flicker red and green as data passes through the ring.
+
+- The orange "OUT" LED will change brightness with the 2^n output voltage. 
 
 
 

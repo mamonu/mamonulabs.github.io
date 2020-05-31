@@ -11,6 +11,8 @@ priority: 1
 
 ![NR](https://raw.githubusercontent.com/FracModular/fracmodular.github.io/master/assets/img/NRFaceSml.jpg)
 
+
+"I always wondered what Mome Raths sound like when they outgrabe. Now I know. Thank you!" - Carol Lewis
   
 ###### *info from the Internet Archive wayback machine of the relevant Wiard 1200 [page](http://web.archive.org/web/20051227190155/http://www.wiard.com/1200/NR/Noise_Ring.html)
   

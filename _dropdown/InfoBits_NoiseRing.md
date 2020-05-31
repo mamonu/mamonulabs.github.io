@@ -173,3 +173,24 @@ Change controls the number of new zeros and one which are let into the ring.
 
 <br>
 <br>
+
+
+---
+
+### Processing External Data
+<br>
+<br>
+#### Oscillator:
+
+Another oscillator can be used to supply data into the shift register. Connect any waveform into the "CHANCE INPUT" jack. 
+In this case we [hear](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/snd/CLOCKSW2.mp3) the familiar "phased" sound of a swept shift register
+
+At ultrasonic frequencies the heterodynes [do a good approximation of a shortwave radio](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/snd/SHORTWAVE.mp3)
+
+<br>
+<br>
+#### Drum Machine:
+
+<br>
+<br>
+[Here](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/snd/DRUM3.mp3) the drum machine input is processed through the NoiseRing, then has the envelope reapplied to a VCF

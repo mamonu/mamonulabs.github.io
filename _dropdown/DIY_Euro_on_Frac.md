@@ -39,6 +39,9 @@ I am going to include relevant information here about such a pursuit.
 
 
 
+
+
+
 ## +/-12V modules that work in +/-15V without any modification needed:
 
 
@@ -67,11 +70,6 @@ V'Amp: operates on +/-9-15V
 
 Sound of Shadows: operates on +/-12-15v
 
-
-### Synsi:
-
-Stomper bassdrum module works on +/-12 an +/-15 V 
-
 ### MTM:
 
 Spring reverb with the digital brick thingy works on  +/-12 +/-15 V without any issues
@@ -80,6 +78,11 @@ Spring reverb with the digital brick thingy works on  +/-12 +/-15 V without any 
 
 PS3100 works on  +/-12 +/-15 V without any issues
 
+
+### Manhattan Analog DTM mixer (based on CP3) :
+ works on   +/-15 V without any issues PCB has 0.156 MOTM connector on board (in case of +/-12 some changes are needed)
+
+
 ---
 
 ### Blacet to Doepfer Power Connector
@@ -87,4 +90,36 @@ PS3100 works on  +/-12 +/-15 V without any issues
 John Blacet had included this diagram on his site:
 
 ![BlacetDoepferConnector](https://github.com/FracModular/Blacet/raw/master/BlacetDoepPsConn.gif)
+
+
+---
+### PCBs to help with porting modules
+
+OSHPARK can fabricate ready designed pcbs
+
+
+
+- for modules that dont need any changes : 
+
+https://oshpark.com/shared_projects/STvepFJE
+
+
+![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/OSH%20ParkMOtM_EURO_CHICKLET.png)
+
+
+
+- for modules that need regulating from 15V to 12V :
+
+https://oshpark.com/shared_projects/IMyjiSay
+
+
+![](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/MOTM_15TOEURO12-front.png)
+
+
+WARNING: 
+These links are provided as suggestions. 
+But you are on your own. Ask a person to help you if you dont know what to do with these.
+
+
+
 

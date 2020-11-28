@@ -40,7 +40,7 @@ And like the JP-8000, the F340 has a sync input as well.
 
 ---
 
-### F340 Diagram
+### F340 Signal Flow Diagram
 
 ![F340diag](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/F340diag.png)
 

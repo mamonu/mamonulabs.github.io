@@ -7,7 +7,7 @@ priority: 1
 ---
 
 
-![TM](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/TM2050f.png)
+![TM](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/TM2050f.jpg)
 
 
 - Genuine BBD Analog Delay Line Technology for that "retro" sound.
@@ -65,7 +65,7 @@ This causes the "crash" of the clock driving the filters and the MN3005, which a
 This is annoying to say the least but can be fixed with one 1N4148 diode (Dxx, shown below). 
 
 
-![TMfix](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/TMfix.png)
+![TMfix](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/TMfix.jpg)
 
 
     
@@ -86,7 +86,7 @@ Removing the negative voltage source and cycling the power will restore normal o
 
 
 
-![TMfix2](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/TMfix2.png)
+![TMfix2](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/TMfix2.jpg)
 
 
 

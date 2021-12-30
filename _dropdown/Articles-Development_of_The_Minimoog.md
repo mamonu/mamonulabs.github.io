@@ -76,7 +76,7 @@ MiniMoog Model A on the bench.
 
 
 
-![Model_A](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/Model_A.png)
+![Model_A](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/MODEL_A.png)
 
 
 Bill wanted to call it the "Min" and so named it on the rear panel label. He
@@ -91,8 +91,7 @@ standard modular front panels reworked to delete the patchcord jacks. The electr
 differed little from the Model A - it was just another repackaging job.
 
 
-
-![Model_B](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/Model_B.png)
+![Model_B](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/MODEL_B.png)
 
 Realizing that the two B Models wouldn’t generate enough interest in the marketplace, Moog gave the go ahead
 to produce four C Models. The idea was to get the some instruments which looked and played like production
@@ -119,7 +118,7 @@ Models.
 
 
 
-![Model_C](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/Model_C.png)
+![Model_C](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/MODEL_C.png)
 
 Hunt Hemsath and I laid out the PC boards. Draftsman Jim Ameigh laid out the front panel, then went to the shop 
 and bent up the metal to form the electronics box behind it. 
@@ -143,7 +142,7 @@ was retired from production. We never did get around to the E Model, the envisio
 in which the wiring harness would have been replaced by a circuit board which also would have carried the
 front panel pots and switches. There never seemed to be the time or funds to do the job right.
 
-![Model_D](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/Model_D.jpg)
+![Model_D](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/MODEL_D.jpg)
 
 So the question remains, why does this instrument, designed in great haste, six months from concept to first
 delivery, sound so damn good? Why is it that that most of the MiniMoogs ever built are still being used

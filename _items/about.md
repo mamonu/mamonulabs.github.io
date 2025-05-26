@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: about ForestPsyWare page
+description: about ForestWare page
 ---
 # ForestPsyWare 
 

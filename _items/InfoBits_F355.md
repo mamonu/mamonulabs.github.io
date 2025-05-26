@@ -9,7 +9,7 @@ priority: 1
 
 
 
-![F355](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/img/BlacetF355MorphingDualLFO.png)
+![F355](https://github.com/mamonulabs/mamonulabs.github.io/raw/master/assets/img/Blacet-F355-Morphing-Dual-LFO.png)
 
 
 ---

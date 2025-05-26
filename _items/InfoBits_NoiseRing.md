@@ -9,7 +9,7 @@ priority: 1
 
 
 
-![NR](https://raw.githubusercontent.com/FracModular/fracmodular.github.io/master/assets/img/NRFaceSml.jpg)
+![NR](https://raw.githubusercontent.com/mamonulabs/mamonulabs.github.io/master/assets/img/NRFaceSml.jpg)
 
 
 "I always wondered what Mome Raths sound like when they outgrabe. Now I know. Thank you!" - Carol Lewis
@@ -96,7 +96,7 @@ with attenuator.
 - The "n+1" output is normalized to the "EXT RATE" input. Increasing the "EXT RATE" control randomizes the clock time.
 - If an external voltage source is connected to the "EXT RATE" input jack, the "n + 1" connection is broken.
 
-![NC](https://raw.githubusercontent.com/FracModular/fracmodular.github.io/master/assets/img/noiexp1.jpg)
+![NC](https://raw.githubusercontent.com/mamonulabs/mamonulabs.github.io/master/assets/img/noiexp1.jpg)
 
 
   
@@ -113,7 +113,7 @@ with attenuator.
 <br>
 <br>
 
-![NC2](https://raw.githubusercontent.com/FracModular/fracmodular.github.io/master/assets/img/noiexp2.jpg)
+![NC2](https://raw.githubusercontent.com/mamonulabs/mamonulabs.github.io/master/assets/img/noiexp2.jpg)
 
 Chance controls the number of zeros and one extracted from the noise source.
 
@@ -122,9 +122,9 @@ Chance controls the number of zeros and one extracted from the noise source.
 - At 12 o'clock position, equal numbers of zeros and ones are output and the "Chance indicator" LED flickers.
 
 
-With the "CHANGE" control is set to 100% (all new data), sweeping the "CHANCE" control sounds like [this](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/snd/PROB1SWE.mp3) at the **2^n** output 
+With the "CHANGE" control is set to 100% (all new data), sweeping the "CHANCE" control sounds like [this](https://github.com/mamonulabs/mamonulabs.github.io/raw/master/assets/snd/PROB1SWE.mp3) at the **2^n** output 
 
-With the "CHANGE" control is set to 100% (all new data), sweeping the "CHANCE" control sounds like [this](https://github.com/FracModular/fracmodular.github.io/raw/master/assets/snd/PROB1SW2.mp3) at the **n+1** output 
+With the "CHANGE" control is set to 100% (all new data), sweeping the "CHANCE" control sounds like [this](https://github.com/mamonulabs/mamonulabs.github.io/raw/master/assets/snd/PROB1SW2.mp3) at the **n+1** output 
 
 
 <br>

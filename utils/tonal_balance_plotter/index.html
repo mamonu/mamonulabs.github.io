@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tonal Balance Curve Viewer</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        canvas {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h2>Tonal Balance Curve Viewer</h2>
+    <input type="file" id="fileInput" accept=".json">
+    <canvas id="chart" height="100"></canvas>
+
+    <script>
+        const fileInput = document.getElementById('fileInput');
+        const ctx = document.getElementById('chart').getContext('2d');
+        let chart;
+
+        fileInput.addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const data = JSON.parse(e.target.result);
+                const frequencies = data.frequencies_hz?.Value.map(d => d.Value);
+                const medianMag = data.normalized_mag_dB?.Value.map(d => d.Value);
+
+                if (!frequencies || !medianMag || frequencies.length !== medianMag.length) {
+                    alert('Invalid or incomplete JSON structure.');
+                    return;
+                }
+
+                const chartData = {
+                    labels: frequencies,
+                    datasets: [{
+                        label: 'Normalized Magnitude (dB)',
+                        data: medianMag,
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        fill: true,
+                        pointRadius: 0,
+                        tension: 0.3
+                    }]
+                };
+
+                const chartOptions = {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            type: 'logarithmic',
+                            title: {
+                                display: true,
+                                text: 'Frequency (Hz)'
+                            },
+                            ticks: {
+                                callback: (value) => Number(value).toLocaleString()
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Magnitude (dB)'
+                            }
+                        }
+                    }
+                };
+
+                if (chart) {
+                    chart.destroy();
+                }
+                chart = new Chart(ctx, {
+                    type: 'line',
+                    data: chartData,
+                    options: chartOptions
+                });
+            };
+            reader.readAsText(file);
+        });
+    </script>
+</body>
+</html>

@@ -6,8 +6,8 @@ logo                     : "/assets/img/FPsy.png" # path of logo image to displa
 # Extra settings
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
-avatar_image: "assets/img/frac.jpg"
-avatar_description: "🎶🎶🌲🌲🌲 ForestPsyWare 🌲🌲🌲🎶🎶"
+avatar_image: "assets/img/FPsy.jpg"
+avatar_description: "🎶🌲ForestPsyWare🌲🎶"
 highlighter_theme: monokai  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]

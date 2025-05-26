@@ -1,5 +1,5 @@
 ---
 layout: blog-index
-title: ForestPsyWare Blog
-description: ForestPsyWare
+title: ForestWare Blog
+description: ForestWare
 ---

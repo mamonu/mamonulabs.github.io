@@ -2,12 +2,12 @@ remote_theme: luxedo/jekyll-theme-potato-hacker
 theme_base: "dark"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 
-logo                     : "/assets/img/frac.jpg" # path of logo image to display in the masthead,
+logo                     : "/assets/img/FPsy.png" # path of logo image to display in the masthead,
 # Extra settings
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/frac.jpg"
-avatar_description: "frac rack 🎶"
+avatar_description: "🎶🎶🌲🌲🌲 ForestPsyWare 🌲🌲🌲🎶🎶"
 highlighter_theme: monokai  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]
@@ -15,10 +15,7 @@ highlighter_theme: monokai  # Theme of the syntax_highlighter [base16 |
     
 toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
   - InfoBits
-  - DIY
-  - Articles
-  - whereToGet
-  - About
+  
 
   
 # Collections

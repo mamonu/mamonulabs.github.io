@@ -1,5 +1,5 @@
 ---
 layout: blog-index
-title: Frac Modular Blog
-description: Frac Modular Blog page
+title: ForestPsyWare Blog
+description: ForestPsyWare
 ---
